@@ -22,4 +22,4 @@ feh --bg-fill $HOME/Pictures/arch.jpg
 ~/.config/polybar/launch.sh
 bspc config focus_follows_pointer false
 picom &
-bspc config border_width 1
+bspc config border_width 0
