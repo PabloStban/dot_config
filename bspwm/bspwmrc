@@ -18,7 +18,7 @@ bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
 # Modificados
-feh --bg-fill $HOME/Pictures/arch.jpg 
+feh --bg-fill $HOME/Pictures/cyberpunk.jpg 
 ~/.config/polybar/launch.sh
 bspc config focus_follows_pointer false
 picom &

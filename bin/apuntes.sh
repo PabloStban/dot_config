@@ -1,6 +1,6 @@
 #!/bin/bash
 
-nota='Apuntes importantes'
+nota='Important Notes!'
 
 echo $nota
 
