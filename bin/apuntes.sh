@@ -1,6 +1,6 @@
 #!/bin/bash
 
-nota='port 42,443,2'
+nota='Apuntes importantes'
 
 echo $nota
 
