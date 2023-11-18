@@ -12,9 +12,10 @@ super + shift + m
 
 super + shift + f 
   firejail /usr/bin/firefox
-
+  
 super + alt + p
-  i3lock
+  i3lock -u -i /home/smert/Pictures/i3.png
+   
 
 super + e
   thunar
